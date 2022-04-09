@@ -6,6 +6,8 @@ This repository contains RBP eCLIP data from Encode in "interval" format (for sp
 
 ## Usage
 
+Repository contains only partial data to save space. To get the full dataset (with sequences) you need to run `add_fasta.py` script. Result is stored in `rbp_encode_eclip.csv` file.
+
 ```python
 # clone this repository
 git clone https://github.com/ML-Bioinfo-CEITEC/rbp_encode_eclip.git
