@@ -11,6 +11,10 @@ classes:
     extra_processing: ENSEMBL_HUMAN_GENOME
     type: fa.gz
     url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
+  ADAT1:
+    extra_processing: ENSEMBL_HUMAN_GENOME
+    type: fa.gz
+    url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
   AGGF1:
     extra_processing: ENSEMBL_HUMAN_GENOME
     type: fa.gz
@@ -20,6 +24,10 @@ classes:
     type: fa.gz
     url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
   AKAP8L:
+    extra_processing: ENSEMBL_HUMAN_GENOME
+    type: fa.gz
+    url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
+  APEX1:
     extra_processing: ENSEMBL_HUMAN_GENOME
     type: fa.gz
     url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
@@ -79,6 +87,14 @@ classes:
     extra_processing: ENSEMBL_HUMAN_GENOME
     type: fa.gz
     url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
+  DDX43:
+    extra_processing: ENSEMBL_HUMAN_GENOME
+    type: fa.gz
+    url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
+  DDX47:
+    extra_processing: ENSEMBL_HUMAN_GENOME
+    type: fa.gz
+    url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
   DDX51:
     extra_processing: ENSEMBL_HUMAN_GENOME
     type: fa.gz
@@ -115,6 +131,10 @@ classes:
     extra_processing: ENSEMBL_HUMAN_GENOME
     type: fa.gz
     url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
+  EEF2:
+    extra_processing: ENSEMBL_HUMAN_GENOME
+    type: fa.gz
+    url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
   EFTUD2:
     extra_processing: ENSEMBL_HUMAN_GENOME
     type: fa.gz
@@ -131,11 +151,27 @@ classes:
     extra_processing: ENSEMBL_HUMAN_GENOME
     type: fa.gz
     url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
+  EIF4E:
+    extra_processing: ENSEMBL_HUMAN_GENOME
+    type: fa.gz
+    url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
   EIF4G2:
     extra_processing: ENSEMBL_HUMAN_GENOME
     type: fa.gz
     url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
+  ELAC2:
+    extra_processing: ENSEMBL_HUMAN_GENOME
+    type: fa.gz
+    url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
+  ELAVL1:
+    extra_processing: ENSEMBL_HUMAN_GENOME
+    type: fa.gz
+    url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
   EWSR1:
+    extra_processing: ENSEMBL_HUMAN_GENOME
+    type: fa.gz
+    url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
+  EXOSC10:
     extra_processing: ENSEMBL_HUMAN_GENOME
     type: fa.gz
     url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
@@ -180,6 +216,10 @@ classes:
     type: fa.gz
     url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
   G3BP1:
+    extra_processing: ENSEMBL_HUMAN_GENOME
+    type: fa.gz
+    url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
+  GARS:
     extra_processing: ENSEMBL_HUMAN_GENOME
     type: fa.gz
     url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
@@ -283,7 +323,19 @@ classes:
     extra_processing: ENSEMBL_HUMAN_GENOME
     type: fa.gz
     url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
+  MBNL1:
+    extra_processing: ENSEMBL_HUMAN_GENOME
+    type: fa.gz
+    url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
   METAP2:
+    extra_processing: ENSEMBL_HUMAN_GENOME
+    type: fa.gz
+    url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
+  METTL1:
+    extra_processing: ENSEMBL_HUMAN_GENOME
+    type: fa.gz
+    url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
+  MORC2:
     extra_processing: ENSEMBL_HUMAN_GENOME
     type: fa.gz
     url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
@@ -403,11 +455,27 @@ classes:
     extra_processing: ENSEMBL_HUMAN_GENOME
     type: fa.gz
     url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
+  RNF187:
+    extra_processing: ENSEMBL_HUMAN_GENOME
+    type: fa.gz
+    url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
+  RPS10:
+    extra_processing: ENSEMBL_HUMAN_GENOME
+    type: fa.gz
+    url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
   RPS11:
     extra_processing: ENSEMBL_HUMAN_GENOME
     type: fa.gz
     url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
   RPS3:
+    extra_processing: ENSEMBL_HUMAN_GENOME
+    type: fa.gz
+    url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
+  RPS6:
+    extra_processing: ENSEMBL_HUMAN_GENOME
+    type: fa.gz
+    url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
+  RYBP:
     extra_processing: ENSEMBL_HUMAN_GENOME
     type: fa.gz
     url: http://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz
