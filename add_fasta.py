@@ -1,11 +1,9 @@
-
 import pandas as pd
 from tqdm.notebook import tqdm
 import yaml
 import re
 import os
 from pathlib import Path
-import pandas as pd
 from genomic_benchmarks.utils.datasets import (
     _download_url,
     _fastagz2dict,
@@ -35,6 +33,7 @@ def download_dataset(
     fastas = _load_fastas_into_memory(refs, cache_path=cache_path)
 
     mode = 'w'
+    header = True
     for c in tqdm(metadata["classes"]):
         dt_filename = interval_list_dataset / (c + ".csv.gz")
         dt = pd.read_csv(str(dt_filename), compression="gzip")
@@ -42,8 +41,9 @@ def download_dataset(
         ref_name = _get_reference_name(metadata["classes"][c]["url"])
         dt["seq"] = _fill_seq_column(fastas[ref_name], dt)
 
-        dt.to_csv(dest_file, mode=mode, index=False)
+        dt.to_csv(dest_file, mode=mode, index=False, header=header)
         mode = 'a'
+        header = False
 
 
 EXTRA_PREPROCESSING = {
