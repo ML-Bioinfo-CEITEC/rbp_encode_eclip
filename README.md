@@ -6,7 +6,7 @@ This repository contains RBP eCLIP data from Encode in "interval" format (for sp
 
 ## Usage
 
-Repository contains only partial data to save space. To get the full dataset (with sequences) you need to run `add_fasta.py` script. Result is stored in `rbp_encode_eclip.csv` file.
+To get the full dataset (with sequences) you need to run `create_csv_dataset.ipynb` notebook `add_fasta.py` script. Result is stored in `rbp_encode_eclip.csv` file.
 
 ```python
 # clone this repository
@@ -21,7 +21,7 @@ source venv/bin/activate
 pip install genomic_benchmarks
 
 # donwload data
-# run the `create-csv-dataset.ipynb` notebook
+# run the `create_csv_dataset.ipynb` notebook
 
 # create final dataset
 python add_fasta.py
