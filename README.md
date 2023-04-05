@@ -20,6 +20,9 @@ source venv/bin/activate
 # install dependencies
 pip install genomic_benchmarks
 
+# donwload data
+# run the `create-csv-dataset.ipynb` notebook
+
 # create final dataset
 python add_fasta.py
 ```
