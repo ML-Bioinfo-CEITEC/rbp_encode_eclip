@@ -6,7 +6,7 @@ This repository contains RBP eCLIP data from Encode in "interval" format (for sp
 
 ## Usage
 
-To get the full dataset (with sequences) you need to run `create_csv_dataset.ipynb` notebook `add_fasta.py` script. Result is stored in `rbp_encode_eclip.csv` file.
+To get the full dataset (with sequences) you need to run `create_csv_dataset.ipynb` notebook and `add_fasta.py` script. Result is stored in `rbp_encode_eclip.csv` file.
 
 ```python
 # clone this repository
