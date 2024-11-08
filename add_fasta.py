@@ -1,5 +1,5 @@
 import pandas as pd
-from tqdm.notebook import tqdm
+from tqdm import tqdm
 import yaml
 import re
 import os
